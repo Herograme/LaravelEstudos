@@ -45,7 +45,7 @@ Uma solução Software-as-a-Service (SaaS) moderna projetada especificamente par
 
 Para mais informações, entre em contato com o desenvolvedor:
 
-- Email: [contato@cellrepairmanager.com](mailto:samuel.coelho.borges@gmail.com)
+- Email: [samuel.coelho.borges@gmail.com](mailto:samuel.coelho.borges@gmail.com)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/samuel-coelho-borges/)
 - GitHub: [GitHub](https://github.com/Herograme/)
 - Discord: Herograme
