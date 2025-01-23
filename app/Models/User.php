@@ -31,6 +31,10 @@ class User extends Authenticatable
         'name',
         'email',
         'password',
+        'provider_id',
+        'provider_name',
+        'provider_token',
+        'provider_refresh_token'
     ];
 
     /**
